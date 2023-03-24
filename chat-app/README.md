@@ -23,3 +23,9 @@ The main components of this application are:
 * `post()`: A handler for the "/message" route that receives a chat message and broadcasts it to all connected clients.
 * `rocket()`: The entry point of the program, which creates a Rocket instance and sets up the application.
 Credits
+
+
+
+
+
+![Screenshot from 2023-03-24 22-34-31](https://user-images.githubusercontent.com/58559626/227597963-9dda3c7c-9b84-4319-8d1a-823102523ffc.png)
